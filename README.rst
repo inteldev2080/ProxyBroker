@@ -52,7 +52,7 @@ The latest development version can be installed directly from GitHub:
 
 .. code-block:: bash
 
-    $ pip install -U git+https://github.com/constverum/ProxyBroker.git
+    $ pip install -U git+https://github.com/inteldev2080/ProxyBroker.git
 
 
 Usage
@@ -153,7 +153,7 @@ TODO
 Contributing
 ------------
 
-* Fork it: https://github.com/constverum/ProxyBroker/fork
+* Fork it: https://github.com/inteldev2080/ProxyBroker/fork
 * Create your feature branch: ``git checkout -b my-new-feature``
 * Commit your changes: ``git commit -am 'Add some feature'``
 * Push to the branch: ``git push origin my-new-feature``
